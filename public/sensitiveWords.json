@@ -1,0 +1,54 @@
+{
+  "suicidio": [
+    "suicídio", "morte", "acabou", "desistir", "não aguento mais", "quero morrer", "não vejo saída", "tchau", "vou me matar", "ninguém me entende",
+    "só quero paz", "sem esperança", "desespero", "tristeza profunda", "solidão", "fuga", "desaparecer", "não quero mais viver", "cansado de lutar",
+    "sem motivos", "sem alegria", "sem amor", "sem futuro", "não tenho forças", "não quero mais", "sinto-me perdido", "não há solução", "não vale a pena",
+    "sinto-me sufocado", "não consigo suportar", "não há saída", "sinto-me preso", "não tenho ninguém", "não quero mais lutar", "não vejo luz",
+    "sinto-me vazio", "não tenho esperança", "não quero mais acordar", "não consigo mais sorrir", "não tenho vontade", "não vejo sentido",
+    "sinto-me invisível", "não quero mais sentir", "não tenho mais sonhos", "não tenho mais objetivos", "não tenho mais nada", "não quero mais viver assim",
+    "não consigo mais suportar", "não tenho mais forças", "não quero mais ser eu", "não vejo mais motivos", "não tenho mais alegria", "não tenho mais amor",
+    "não tenho mais amigos", "não tenho mais família", "não tenho mais apoio", "não tenho mais nada a perder", "não tenho mais nada a ganhar",
+    "não tenho mais nada a viver", "não tenho mais nada a fazer", "não tenho mais nada a sentir", "não tenho mais nada a dizer", "não tenho mais nada a esperar",
+    "não tenho mais nada a sonhar", "não tenho mais nada a lutar", "não tenho mais nada a conquistar", "não tenho mais nada a alcançar", "não tenho mais nada a querer",
+    "S.O.S.", "FML", "NVM", "TBT", "sem saída", "desespero total", "não vejo futuro", "sinto-me exausto", "não tenho mais motivos", "não quero mais lutar",
+    "não tenho mais forças", "não tenho mais nada a perder", "não tenho mais nada a ganhar", "não tenho mais nada a viver", "não tenho mais nada a fazer",
+    "não tenho mais nada a sentir", "não tenho mais nada a dizer", "não tenho mais nada a esperar", "não tenho mais nada a sonhar", "não tenho mais nada a conquistar",
+    "não tenho mais nada a alcançar", "não tenho mais nada a querer", "sem esperança", "sem amor", "sem alegria", "sem futuro", "sem motivos"
+  ],
+  "depressao": [
+    "triste", "depressão", "sofrimento", "sem esperança", "não consigo mais", "não vale a pena", "vazio", "nada importa", "estou cansado", "choro constante",
+    "ninguém se importa", "desânimo", "desesperança", "cansaço emocional", "falta de motivação", "falta de energia", "falta de interesse", "falta de alegria",
+    "falta de amor", "falta de apoio", "falta de compreensão", "falta de propósito", "falta de sentido", "falta de felicidade", "falta de conexão",
+    "falta de empatia", "falta de esperança", "falta de sonhos", "falta de objetivos", "falta de amigos", "falta de família", "falta de apoio emocional",
+    "falta de apoio psicológico", "falta de apoio social", "falta de apoio espiritual", "falta de apoio financeiro", "falta de apoio físico",
+    "falta de apoio mental", "falta de apoio emocional", "falta de apoio psicológico", "falta de apoio social", "falta de apoio espiritual",
+    "falta de apoio financeiro", "falta de apoio físico", "falta de apoio mental", "falta de apoio emocional", "falta de apoio psicológico",
+    "falta de apoio social", "falta de apoio espiritual", "falta de apoio financeiro", "falta de apoio físico", "falta de apoio mental",
+    "BPD", "PTSD", "CPTSD", "TMI", "sem motivação", "sem energia", "sem alegria", "sem amor", "sem apoio", "sem compreensão", "sem propósito",
+    "sem sentido", "sem felicidade", "sem conexão", "sem empatia", "sem esperança", "sem sonhos", "sem objetivos", "sem amigos", "sem família"
+  ],
+  "ansiedade": [
+    "ansiedade", "ansioso", "ansiosa", "pânico", "medo", "angústia", "não consigo respirar", "coração acelerado", "nervosismo", "estou surtando",
+    "preocupado demais", "tensão", "insônia", "mãos suando", "sintomas físicos", "sintomas emocionais", "sintomas mentais", "sintomas psicológicos",
+    "sintomas sociais", "sintomas espirituais", "sintomas financeiros", "sintomas físicos", "sintomas emocionais", "sintomas mentais",
+    "sintomas psicológicos", "sintomas sociais", "sintomas espirituais", "sintomas financeiros", "sintomas físicos", "sintomas emocionais",
+    "sintomas mentais", "sintomas psicológicos", "sintomas sociais", "sintomas espirituais", "sintomas financeiros", "sintomas físicos",
+    "sintomas emocionais", "sintomas mentais", "sintomas psicológicos", "sintomas sociais", "sintomas espirituais", "sintomas financeiros",
+    "GAD", "Panic Attack", "AFRAID", "Breathe", "sintomas de ansiedade", "ataques de pânico", "medo constante", "preocupação excessiva",
+    "tensão muscular", "dificuldade de concentração", "irritabilidade", "falta de ar", "sintomas físicos de ansiedade", "sintomas emocionais de ansiedade",
+    "sintomas mentais de ansiedade", "sintomas psicológicos de ansiedade", "sintomas sociais de ansiedade", "sintomas espirituais de ansiedade",
+    "sintomas financeiros de ansiedade", "sintomas físicos de ansiedade", "sintomas emocionais de ansiedade", "sintomas mentais de ansiedade"
+  ],
+  "autoagressao": [
+    "autoagressão", "autolesão", "isolamento", "dor", "cortes", "me machuquei", "ninguém se importa", "me odeio", "quero sentir algo", "me punir",
+    "preciso de ajuda", "fuga da dor", "desespero", "solidão", "tristeza profunda", "falta de apoio", "falta de compreensão", "falta de amor",
+    "falta de empatia", "falta de esperança", "falta de propósito", "falta de sentido", "falta de felicidade", "falta de conexão", "falta de apoio emocional",
+    "falta de apoio psicológico", "falta de apoio social", "falta de apoio espiritual", "falta de apoio financeiro", "falta de apoio físico",
+    "falta de apoio mental", "fuga da realidade", "fuga da dor", "fuga do sofrimento", "fuga da tristeza", "fuga da solidão", "fuga do desespero",
+    "fuga da falta de apoio", "fuga da falta de compreensão", "fuga da falta de amor", "fuga da falta de empatia", "fuga da falta de esperança",
+    "fuga da falta de propósito", "fuga da falta de sentido", "fuga da falta de felicidade", "fuga da falta de conexão", "fuga da falta de apoio emocional",
+    "SH", "RA", "CPTSD", "Hurt", "autoagressão emocional", "autoagressão física", "fuga da dor emocional", "fuga da dor física", "fuga da realidade",
+    "fuga do sofrimento emocional", "fuga do sofrimento físico", "fuga da tristeza emocional", "fuga da tristeza física", "fuga da solidão emocional",
+    "fuga da solidão física", "fuga do desespero emocional", "fuga do desespero físico"
+  ]
+}
